@@ -9,3 +9,19 @@
     height: 220px;
     width: 200px;
 }
+ /* user items */
+ .user-img{
+     height: 80px;
+     width: 80px;
+ }
+ /* star color */
+ .far{
+color: #E77C40;
+ }
+ .fas{
+    color: #E77C40;
+ }
+ .fQ-img{
+     height: 400px;
+     width: 600px;
+ }
