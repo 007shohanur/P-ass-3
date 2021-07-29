@@ -1,3 +1,20 @@
+/* font added */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+/* header color */
+.bg-color{
+background-color: #264653;
+}
+.btn-color{
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #ec7355 0%, #E76F51 100%);
+}
+/* grayscale */
 .gray-img{
     height:220px;
     width: 200px;
@@ -8,6 +25,10 @@
 .non-gray-img{
     height: 220px;
     width: 200px;
+}
+/* clients */
+.clients{
+    color: #ca4c11;
 }
  /* user items */
  .user-img{
